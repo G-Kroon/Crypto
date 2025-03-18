@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+#investmentOptions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.investment {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 30%;
+}
+
+#socialMedia img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
